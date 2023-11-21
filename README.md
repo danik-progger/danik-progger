@@ -10,7 +10,7 @@
 
   <h3 align="left">Languages and tools:</h3>
     
-    <img align="left" style="padding-right:100px; padding-bottom:40px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img align="left" style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img align="left" style="padding-right:100px;" width="40px" align="left" style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="left" style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="left" style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -26,4 +26,4 @@
     <img align="left" style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danik-progger&show_icons=true&locale=en&layout=compact" alt="danik-progger" /></p>
+<p><img align="center" style="margin-top:50px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=danik-progger&show_icons=true&locale=en&layout=compact" alt="danik-progger" /></p>
