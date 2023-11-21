@@ -25,4 +25,4 @@
     <img align="left" style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 
 
-<p style="margin-top:50px;"><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=danik-progger&show_icons=true&locale=en&layout=compact" alt="danik-progger" /></p>
+    <p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=danik-progger&show_icons=true&locale=en&layout=compact" alt="danik-progger" /></p>
