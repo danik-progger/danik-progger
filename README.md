@@ -9,7 +9,6 @@
 
 
 
-<div align="left">
     <h3 align="left">Languages:</h3>
       <p width="2">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" margin="10px"/>
@@ -34,4 +33,3 @@
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </p>
-</div>
