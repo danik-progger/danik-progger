@@ -26,4 +26,4 @@
     <img align="left" style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
-<p style="padding-top:50px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danik-progger&show_icons=true&locale=en&layout=compact" alt="danik-progger" /></p>
+<p style="padding-top:50px;"><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=danik-progger&show_icons=true&locale=en&layout=compact" alt="danik-progger" /></p>
