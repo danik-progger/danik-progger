@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A passionate developer from Russia</h3>
 
+- 🌱 Now I’m studiing in MIPT
+
 - 🌱 I’m currently learning **Python and Javascript**
 
 - 📫 How to reach me **lyatorovskiy@yandex.ru**
