@@ -34,4 +34,4 @@
   <br/>
 
 
-<p style="padding-top:20px;"><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=danik-progger&show_icons=true&locale=en&layout=compact" alt="danik-progger" /></p>
+<p style="margin-top:20px;"><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=danik-progger&show_icons=true&locale=en&layout=compact" alt="danik-progger" /></p>
