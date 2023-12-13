@@ -3,7 +3,7 @@
 
 - 🥸 Now I’m studiing in **MIPT**
 
-- 🌱 I’m currently learning **Python and Javascript**
+- 🌱 I’m currently learning **Python and Data Science**
 
 - 📫 How to reach me **lyatorovskiy@yandex.ru**
 
