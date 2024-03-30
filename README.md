@@ -1,13 +1,8 @@
 <h3 align="center">Hi 👋, I'm Dan</h3>
 <!-- <h3 align="center">A passionate developer</h3> -->
 
-- 🎓 Now I’m studiing in **MIPT**
-
-- 🌱 I’m currently learning: **Python and Machine Learning**
-
 - 📬 How to reach me: **lyatorovskiy@yandex.ru**
 
-- 🎉 Fun fact: **I love basketball 🏀**
     
 ### I worked with:
 #### Languages:
