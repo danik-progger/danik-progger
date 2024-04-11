@@ -12,8 +12,8 @@
   <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   
-   <!--<img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> -->
-   <!--<<img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
+   <!--<img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+   <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
           
           
           
