@@ -21,6 +21,8 @@
 
 #### Libraries and frameworks:
 
+
+  <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
   <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
