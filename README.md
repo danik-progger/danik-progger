@@ -32,7 +32,7 @@
   
   <img align="left" style="padding-right:100px;" width="35px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" />
   <img align="left" style="padding-right:100px; margin:top:0px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-  <img style="padding-right:100px; margin:top:0px" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+  <img style="padding-right:100px; margin:top:0px" width="35px"  src="https://img.icons8.com/?size=100&id=oL2HGqCJ4Qhd&format=png&color=9C2020" />
           
   
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> -->
@@ -45,9 +45,9 @@
   
 #### Tools:
   <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="left" style="padding-right:100px;" width="35px" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" />
+  <img align="left" style="padding-right:100px;" width="35px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
+  <img align="left" style="padding-right:100px;" width="35px" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" />
+  <img align="left" style="padding-right:100px;" width="35px" src="https://img.icons8.com/?size=100&id=qGZRK3KTK57F&format=png&color=000000" />
   <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
