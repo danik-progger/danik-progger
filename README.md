@@ -30,7 +30,7 @@
   <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   <img  style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
   
-  <img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="left" style="padding-right:100px;" width="35px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" />
   <img align="left" style="padding-right:100px; margin:top:0px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
   <img style="padding-right:100px; margin:top:0px" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
           
