@@ -13,7 +13,7 @@
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
   
    <!-- <img align="left" style=" padding-top:100px;"Prev width="35px" src="https://img.icons8.com/?size=100&id=XWesbnSd4AUa&format=png&color=9C2020" /> -->
-   <img align="left" sstyle=" padding-top:100px;" width="40px" src="https://www.rustacean.net/assets/cuddlyferris.svg" />
+   <!-- <img align="left" height="35px" top=120 src="https://www.rustacean.net/assets/cuddlyferris.svg" /> -->
    <!--<img align="left" style="padding-right:100px;" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
           
           
