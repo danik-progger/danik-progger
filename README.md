@@ -32,7 +32,8 @@
   <img  style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
   
   <img align="left" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" />
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=000000" />
+  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=00C1E0"/>
   <img width="40px" src="https://img.icons8.com/?size=100&id=oL2HGqCJ4Qhd&format=png&color=9C2020" />
           
   
