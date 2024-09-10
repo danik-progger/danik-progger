@@ -28,8 +28,7 @@
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img  style="padding-right:100px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   
   <img align="left" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" />
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=000000" />
@@ -47,7 +46,6 @@
   
 #### Tools:
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" />
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" />
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=qGZRK3KTK57F&format=png&color=000000" />
