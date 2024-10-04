@@ -11,6 +11,8 @@
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
+  <!--- <img align="left" width="40px" src="https://nordicapis.com/wp-content/uploads/Golang-Go-web-language-API-Nordic-APIs.png" /> --->
+  
   
    <!-- <img align="left" style=" padding-top:100px;"Prev width="35px" src="https://img.icons8.com/?size=100&id=XWesbnSd4AUa&format=png&color=9C2020" /> -->
    <!-- <img align="left" height="35px" top=120 src="https://www.rustacean.net/assets/cuddlyferris.svg" /> -->
@@ -25,12 +27,14 @@
 
 
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+  <!--- <img width="40px"g src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /> --->
+          
   
   <img align="left" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" />
+  <img align="left" width="40px" src="https://img.icons8.com/nolan/64/astro-js.png" alt="astro-js"/>
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=000000" />
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=00C1E0"/>
   <img width="40px" src="https://img.icons8.com/?size=100&id=oL2HGqCJ4Qhd&format=png&color=9C2020" />
