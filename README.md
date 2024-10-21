@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate developer</h3> -->
 
 - 📬 How to reach me: **lyatorovskiy@yandex.ru**
-- 📝 My resume: [ru](resume.pdf)
+- 📝 My resume: [ru](resume.pdf) [eng](resume_eng.pdf)
 
     
 ### I worked with:
