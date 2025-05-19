@@ -7,9 +7,9 @@
     
 ### I worked with:
 #### Languages:
-  <!--- <img align="left" height="33px" top=120 src="https://www.rustacean.net/assets/cuddlyferris.svg" /> --->
-  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
   <img align="left" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+  <img align="left" height="33px" top=120 src="https://www.rustacean.net/assets/cuddlyferris.svg" />
+  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
   <img align="left" width="40px" src="https://nordicapis.com/wp-content/uploads/Golang-Go-web-language-API-Nordic-APIs.png" />
           
           
