@@ -1,6 +1,8 @@
 <h3 align="center">Hi 👋, I'm Dan</h3>
 <!-- <h3 align="center">A passionate developer</h3> -->
 
+<img width="200px" align="right" src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" />
+
 - 📬 How to reach me: **lyatorovskiy@yandex.ru**
 - 📝 My resume:  [(ru)](resume.pdf)         [(eng)](resume_eng.pdf)
 
