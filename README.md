@@ -28,8 +28,8 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
   <!--- <img width="40px"g src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /> --->
           
-  <img align="left" width="44px" src="https://img.icons8.com/fluency/96/nextjs.png" alt="nextjs"/>
-  <img align="left" width="40px" src="https://img.icons8.com/nolan/64/astro-js.png" alt="astro-js"/>
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
   <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=00C1E0"/>
   <img width="40px" src="https://img.icons8.com/?size=100&id=oL2HGqCJ4Qhd&format=png&color=9C2020" />
           
