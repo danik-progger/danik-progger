@@ -1,18 +1,18 @@
 # Hey 👋, I'm Dan
+
 <!-- <h3 align="center">A passionate developer</h3> -->
 
 <img width="200px" align="right" src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" />
 
-- 📬 How to reach me: **lyatorovskiy@yandex.ru**
-- 📝 My resume:  [(ru)](resume.pdf)         [(eng)](resume_eng.pdf)
+-   📬 How to reach me: lyatorovskiy@yandex.ru
+-   📝 My resume: [(ru)](resume.pdf) [(eng)](resume_eng.pdf)
 
-    
-### I worked with:
 #### Languages:
-  <img align="left" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
-  <img align="left" height="33px" top=120 src="https://www.rustacean.net/assets/cuddlyferris.svg" />
-  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
-  <img align="left" width="40px" src="https://nordicapis.com/wp-content/uploads/Golang-Go-web-language-API-Nordic-APIs.png" />
+
+  <img align="left" width="40" src="assets/ts.svg" /> 
+  <img align="left" width="40" src="assets/rs.svg" />
+  <img align="left" width="40" src="assets/go.svg" />
+  <img align="left" width="40" src="assets/py.svg"/>
           
           
           
@@ -21,17 +21,15 @@
 
 #### Libraries and frameworks:
 
+  <img align="left" width="40" src="assets/react.svg" />
+  <img align="left" width="40" src="assets/next.svg" />
+  <img align="left" width="40" src="assets/svelte.svg" />
+  <img width="40" src="assets/astro.svg" />
 
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img align="left" width="40px" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-  <!--- <img width="40px"g src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /> --->
-          
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=00C1E0"/>
-  <img width="40px" src="https://img.icons8.com/?size=100&id=oL2HGqCJ4Qhd&format=png&color=9C2020" />
+  <img align="left" width="40" src="assets/tailwind.svg"/>
+  <img align="left" width="40" src="assets/playwright.svg"/>
+  <img align="left" width="40" src="assets/tauri.svg"/>
+  <img width="40" src="assets/jest.svg" />
           
   
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> -->
@@ -43,10 +41,7 @@
           -->
   
 #### Tools:
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
-  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
-  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" />
-  <img align="left" width="40px" src="https://img.icons8.com/?size=100&id=qGZRK3KTK57F&format=png&color=000000" />
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
+  <img align="left" width="40" src="assets/git.svg" />
+  <img align="left" width="40" src="assets/db.svg" />
+  <img align="left" width="40" src="./assets/docker.svg" />
+  <img align="left" width="40" src="./assets/figma.svg" />
