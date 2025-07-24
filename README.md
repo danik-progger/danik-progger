@@ -10,24 +10,23 @@
 
 #### Languages
 
-  <img align="left" width="40" src="assets/ts.svg" /> 
-  <img align="left" width="40" src="assets/rs.svg" />
-  <img align="left" width="40" src="assets/go.svg" />
-  <img width="40" src="assets/py.svg"/>
+  <img align="left" width="36" src="assets/ts.svg" /> 
+  <img align="left" width="36" src="assets/rs.svg" />
+  <img align="left" width="36" src="assets/go.svg" />
+  <img width="36" src="assets/py.svg"/>
 
 #### Libraries and frameworks
 
-  <img align="left" width="40" src="assets/react.svg" />
-  <img align="left" width="40" src="assets/next.svg" />
-  <img align="left" width="40" src="assets/svelte.svg" />
-  <img align="left" width="40" src="assets/astro.svg" />
-
-  <img align="left" width="40" src="assets/tailwind.svg"/>
-  <img width="40" src="assets/playwright.svg"/>
+  <img align="left" width="36" src="assets/react.svg" />
+  <img align="left" width="36" src="assets/next.svg" />
+  <img align="left" width="36" src="assets/svelte.svg" />
+  <img align="left" width="36" src="assets/astro.svg" />
+  <img align="left" width="36" src="assets/tailwind.svg"/>
+  <img width="36" src="assets/playwright.svg"/>
   
 #### Other
 
-  <img align="left" width="40" src="assets/git.svg" />
-  <img align="left" width="40" src="assets/db.svg" />
-  <img align="left" width="40" src="./assets/docker.svg" />
-  <img align="left" width="40" src="./assets/figma.svg" />
+  <img align="left" width="36" src="assets/git.svg" />
+  <img align="left" width="36" src="assets/db.svg" />
+  <img align="left" width="36" src="./assets/docker.svg" />
+  <img align="left" width="36" src="./assets/figma.svg" />
