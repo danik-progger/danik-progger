@@ -24,12 +24,10 @@
   <img align="left" width="40" src="assets/react.svg" />
   <img align="left" width="40" src="assets/next.svg" />
   <img align="left" width="40" src="assets/svelte.svg" />
-  <img width="40" src="assets/astro.svg" />
+  <img align="left" width="40" src="assets/astro.svg" />
 
   <img align="left" width="40" src="assets/tailwind.svg"/>
-  <img align="left" width="40" src="assets/playwright.svg"/>
-  <img align="left" width="40" src="assets/tauri.svg"/>
-  <img width="40" src="assets/jest.svg" />
+  <img width="40" src="assets/playwright.svg"/>
           
   
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> -->
