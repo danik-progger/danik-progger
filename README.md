@@ -11,7 +11,7 @@
 #### Languages
 
   <img align="left" width="36" src="assets/ts.svg" /> 
-  <img align="left" width="36" src="assets/rs.svg" />
+  <!--- <img align="left" width="36" src="assets/rs.svg" /> --->
   <img align="left" width="36" src="assets/go.svg" />
   <img width="36" src="assets/py.svg"/>
 
