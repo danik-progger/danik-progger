@@ -18,9 +18,9 @@
 #### Libraries and frameworks
 
   <img align="left" width="36" src="assets/react.svg" />
-  <img align="left" width="36" src="assets/next.svg" />
+  <!---   <img align="left" width="36" src="assets/next.svg" /> --->
   <img align="left" width="36" src="assets/svelte.svg" />
-  <img align="left" width="36" src="assets/astro.svg" />
+  <!---  <img align="left" width="36" src="assets/astro.svg" /> --->
   <img align="left" width="36" src="assets/tailwind.svg"/>
   <img width="36" src="assets/playwright.svg"/>
   
